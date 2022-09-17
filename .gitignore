@@ -1,3 +1,5 @@
 ./images
 .gitignore
 .vscode
+out.txt
+a.out
